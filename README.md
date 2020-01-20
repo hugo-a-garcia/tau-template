@@ -1,6 +1,6 @@
-# Tau
+# Tau Template
 
-**An updated merge of electron-quick-start and electron-serialport
+An updated merge of electron-quick-start, electron-serialport-quick-start and electron-serialport
 
 ## electron-quick-start
 
