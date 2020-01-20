@@ -9,4 +9,7 @@ window.addEventListener('DOMContentLoaded', () => {
   for (const type of ['chrome', 'node', 'electron']) {
     replaceText(`${type}-version`, process.versions[type])
   }
+
+  document.getElementById('serialport-version').innerText = require('serialport/package').version
+
 })
