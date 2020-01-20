@@ -1,4 +1,8 @@
-# electron-quick-start
+# Tau
+
+**An updated merge of electron-quick-start and electron-serialport
+
+## electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
 
